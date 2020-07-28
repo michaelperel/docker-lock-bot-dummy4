@@ -1,1 +1,4 @@
-hello
+{
+	"dockerfiles": {},
+	"composefiles": {}
+}
