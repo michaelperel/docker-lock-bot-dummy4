@@ -2,9 +2,9 @@
 	"dockerfiles": {
 		"Dockerfile": [
 			{
-				"name": "python",
+				"name": "node",
 				"tag": "latest",
-				"digest": "a9be1e55b2d309084dc00f5e06302062aebf1bf1b03ec3b2f6c97050f264edca"
+				"digest": "a2397f3a30c8631d761b6e7d13af5a1107b2222b7d0ec2f515640674a44a09fd"
 			}
 		]
 	},
