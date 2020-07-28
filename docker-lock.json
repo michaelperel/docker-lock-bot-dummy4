@@ -2,9 +2,9 @@
 	"dockerfiles": {
 		"Dockerfile": [
 			{
-				"name": "golang",
+				"name": "node",
 				"tag": "latest",
-				"digest": "2aa6447d32de9bd2156c5aa379acb2766c196415626d06d8f5fcc2167e6f8844"
+				"digest": "a2397f3a30c8631d761b6e7d13af5a1107b2222b7d0ec2f515640674a44a09fd"
 			}
 		]
 	},
