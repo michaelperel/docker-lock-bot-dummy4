@@ -1,1 +1,1 @@
-FROM golang
+FROM python:3.7
